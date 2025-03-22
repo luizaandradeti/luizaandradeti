@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔝 Exp. Software Enginner com Java, DevOps e Cloud empresas: @Santander, @Itau, @Bradesco, @Tooseguros e etc. 
+- 🔝 Exp. Software Enginner com Java, Apache Kafka, DevOps e Cloud empresas: @Santander, @Itau, @Bradesco, @Tooseguros e etc. 
 - 🤔 Estou me preparando para o exame AWS Certified Solutions Architect
 - 💬 Assuntos da empresa, chamar no Microsoft Teams profissional
 - 😄 Gosto de jogar tenis, fazer academia, estudar
