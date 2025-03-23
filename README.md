@@ -8,6 +8,4 @@
 - ⚡ Padões de arquiteturas de software que tenho experiência: CQRS, Database per service, Event driven
 - 📫 Formação: Tecnologia/engenharia (mestrado, pós e graduação)
 
-[Ip calculator](https://www.iptp.net/pt_PT/iptp-tools/ip-calculator/)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
