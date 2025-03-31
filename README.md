@@ -3,7 +3,7 @@
 
 - 🔝 Exp. Software Enginner com Java, Apache Kafka, DevOps e Cloud empresas: @Santander, @Itau, @Bradesco e etc.
 -  ☁ Experiência com Microsoft Azure, Amazon AWS, Terraform, Kafka, Docker, Jenkins e Kubernetes.
-- ⚡ Padrões de arquitetura:Saga,CQRS, Database per service, Event driven e Clean Arch.
+- ⚡ Padrões de arquitetura: Saga, CQRS, Database per service, Event driven e Clean Arch.
 - 🚀 Estou me preparando para o exame AWS Certified Solutions Architect.
 - 💻 Formação: Tecnologia/engenharia (1 mestrado, 3 pós e 2 graduações).
 - 🧐 Tenho mais de 70 certificados de cursos práticos em software engineer.
