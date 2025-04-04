@@ -10,5 +10,6 @@
 - 💬 Assuntos do work, chamar no Microsoft Teams profissional apenas.
 - 😄 Gosto de jogar tenis, corrida, academia e estudar.
 - ⚡ Sou especialista em Data Science com linguagens de programação para analises estatísticas, de classificação e predição matemática.
+- 🚀 I'm building a personal portfolio
 
 
