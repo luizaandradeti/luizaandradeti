@@ -21,5 +21,5 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 </div>
 
 <div align="left">
-<img src="https://github.com/luizaandradeti/luizaandradeti/blob/7ff26f519b0f80f71e39d7d6c5fdceeab547f6d1/streak.svg">
+<img src="https://github.com/luizaandradeti/luizaandradeti/blob/main/count.svg">
 </div>
