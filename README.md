@@ -20,6 +20,4 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 <img width="45%" height=50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=radical"/>
 </div>
 
-<div align="left">
-<img src="https://github.com/luizaandradeti/luizaandradeti/blob/main/count.svg">
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luizaandradeti&theme=radical)](https://git.io/streak-stats)
