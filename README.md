@@ -10,9 +10,9 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 - 💡  Experiência com padrões de arquitetura: Saga, CQRS e Event driven; 
 - 🤔 Estou me preparando para o exame AWS Certified Solutions Architect.
 - ⚡ Formação: Tecnologia/engenharia (1 mestrado, 3 pós e 2 graduações);
-- 🆙 Hobbies: Corrida, esportes aquáticos, musculação, jogar tenis;
+- 😄 Hobbies: Corrida, esportes aquáticos, musculação, jogar tenis;
 - 🔬 Sou especialista em Data Science;
-- 💹 Experiência em Faculdades (presencial): @Fiap e @Impacta
+- 💻  Experiência em Faculdades (presencial): @Fiap e @Impacta
 - 😄 Mais de 70 cursos práticos em tecnologia;
 
 
