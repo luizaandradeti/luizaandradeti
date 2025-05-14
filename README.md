@@ -20,5 +20,5 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=radical" alt="luizaandradeti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luizaandradeti&theme=radical" alt="luizaandradeti" /></p>
+
 
