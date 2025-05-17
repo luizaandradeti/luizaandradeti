@@ -19,9 +19,9 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 ## Languages:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=radical" alt="luizaandradeti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=tokyonight" alt="luizaandradeti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luizaandradeti&theme=radical" alt="luizaandradeti" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luizaandradeti&theme=tokyonight" alt="luizaandradeti" /></p>
 
 
 
