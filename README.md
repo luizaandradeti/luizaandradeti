@@ -2,7 +2,7 @@
  
 Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ba346e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fkuiza-andradeti/)](https://www.linkedin.com/in/Luizaandradeti/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0089d2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fkuiza-andradeti/)](https://www.linkedin.com/in/Luizaandradeti/)
 
  ## About
  
