@@ -19,3 +19,6 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 <img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=&&hide=issues,contribs&count_private=true&rank_icon=percentile&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=radical" alt="luizaandradeti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luizaandradeti&theme=radical" alt="luizaandradeti" /></p>
