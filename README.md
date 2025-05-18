@@ -21,8 +21,3 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 <img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=&&hide=issues,contribs&count_private=true&rank_icon=percentile&show=prs_merged" alt="luizaandradeti's GitHub Stats"/>
 
-
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
-
