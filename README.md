@@ -2,8 +2,6 @@
  
 Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizaandradeti&label=Profile%20views&color=0e75b6&style=flat" alt="luizaandradeti" /> </p>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0089d2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-andrade-ti/)](https://www.linkedin.com/in/luiza-andrade-ti/)
  ## About
  
