@@ -19,5 +19,5 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 ## Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=&&hide=issues,contribs&count_private=true&rank_icon=percentile&show=prs_merged" alt="luizaandradeti's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=&&hide=issues,contribs&count_private=true&rank_icon=percentile&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/>
 
