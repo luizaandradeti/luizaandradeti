@@ -2,6 +2,8 @@
  
 Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizaandradeti&label=Profile%20views&color=be3570&style=flat" alt="luizaandradeti" /> </p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-be3570?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-andrade-ti/)](https://www.linkedin.com/in/luiza-andrade-ti/)
  ## About
  
@@ -15,6 +17,9 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 - 😄 Mais de 70 cursos práticos em tecnologia (não tenho interesse em outras ciências);
 
 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0089d2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-andrade-ti/)](https://www.linkedin.com/in/luiza-andrade-ti
 ## Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=&&hide=issues,contribs&count_private=true&rank_icon=percentile&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/>
