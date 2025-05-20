@@ -2,7 +2,7 @@
  
 Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0089d2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-andrade-ti/)](https://www.linkedin.com/in/luiza-andrade-ti/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-da3b7d?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-andrade-ti/)](https://www.linkedin.com/in/luiza-andrade-ti/)
  ## About
  
 - 💻 Experiência - Software Enginner e Cloud: @Itau, @Bradesco, @NewSpace, @Santander e etc.
@@ -21,4 +21,3 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=radical" alt="luizaandradeti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luizaandradeti&theme=radical" alt="luizaandradeti" /></p>
