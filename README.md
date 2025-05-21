@@ -21,7 +21,8 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 <img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=&hide=issues,contribs&count_private=true&&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=radical" alt="luizaandradeti" /></p>
-
+<br>
+<hr>
 
 <h3 align="left">Support?</h3>
 <p><a href="https://www.linkedin.com/in/luiza-andrade-ti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiza" /></a></p><br><br>
