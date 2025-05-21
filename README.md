@@ -21,9 +21,10 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 <img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=&hide=issues,contribs&count_private=true&&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HCL,HTML,Kotlin&theme=radical" alt="luizaandradeti" /></p>
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=luizaandradeti&theme=radical&hide_border=false)
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFtbnU0bHo3YmEza3IyNjR2MHdlNmc3dDFzbmNha3hicG02eGM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif
+> [!CAUTION]
+>  
+> Este git não é para fins distintos da área tech! Se quiser aprender tech, seja bem-vindo!
