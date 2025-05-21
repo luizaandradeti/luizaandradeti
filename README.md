@@ -24,6 +24,7 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 <br>
 <hr>
 
-<h3 align="left">Support?</h3>
+## Support?
+
 <p><a href="https://www.linkedin.com/in/luiza-andrade-ti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiza" /></a></p><br><br>
 
