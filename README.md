@@ -25,6 +25,6 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=luizaandradeti&theme=radical&hide_border=false)
 
-> [!CAUTION]
->  
-> Este git não é para fins distintos da área tech! Se quiser aprender tech, seja bem-vindo!
+<h3 align="left">Support?</h3>
+<p><a href="https://www.linkedin.com/in/luiza-andrade-ti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Luiza" /></a></p><br><br>
+
