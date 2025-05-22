@@ -2,7 +2,7 @@
 
 Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0089d2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-andrade-ti/)](https://www.linkedin.com/in/luiza-andrade-ti/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-be3570?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-andrade-ti/)](https://www.linkedin.com/in/luiza-andrade-ti/)
 
  ## About
 
