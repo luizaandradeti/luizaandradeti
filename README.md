@@ -14,7 +14,7 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 - 🎾 Hobbies: Corrida, esportes aquáticos, musculação, jogar tenis;
 - 🔬 Sou especialista em Data Science;
 - 💻 Experiência em Faculdades (presencial): @Fiap e @Impacta
-- 😄 Mais de 70 cursos práticos em tecnologia e vários cursos de desenvolvimento pessoal (apoio);
+- 😄 Mais de 70 cursos práticos em tecnologia e vários cursos de desenvolvimento pessoal;
 
 ## Stats:
 
