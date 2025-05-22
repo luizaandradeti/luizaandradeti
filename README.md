@@ -11,7 +11,7 @@ Java | Spring Boot | AWS | Terraform | Docker | Kubernetes
 - 💻 Experiência - Software Enginner e Cloud: @Itau, @Bradesco, @NewSpace, @Santander e etc.
 - 💡  Experiência com padrões de arquitetura: Saga, CQRS e Event driven; 
 - 🤔 Estou me preparando para o exame AWS Certified Solutions Architect.
-- 💡  Apoio: Inclusão digital no combate a desigualdade de oportunidades a nivel territorial.
+- 💡  Apoio: Inclusão digital como estratégia de combate a desigualdade de oportunidades a nivel territorial.
 - ⚡ Formação: Tecnologia/engenharia (1 mestrado, 3 pós e 2 graduações);
 - 😄 Hobbies: Corrida, esportes aquáticos, musculação, jogar tenis;
 - 🔬 Sou especialista em Data Science;
