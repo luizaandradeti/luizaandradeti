@@ -2,13 +2,6 @@
 
 Java | IaC | Docker | AWS 
 
-## Stats 2025
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizaandradeti&theme=radical" alt="GitHub Streak" /></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=false&&rank_icon=percentile&hide=contribs,issues&count_private=true&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/></p>
-
-
  ## About
 
 
@@ -32,3 +25,10 @@ Java | IaC | Docker | AWS
 
 
 </p>
+
+
+## Stats 2025
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizaandradeti&theme=radical" alt="GitHub Streak" /></a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=false&&rank_icon=percentile&hide=contribs,issues&count_private=true&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/></p>
