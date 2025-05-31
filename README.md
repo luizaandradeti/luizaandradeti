@@ -2,6 +2,16 @@
 
 Java | IaC | Docker | AWS 
 
+
+## Stats 2025
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/luizaandradeti?cardType=level-alternate&theme=radical&hide=contribs&preferLogin=false)](https://git.io/awesome-stats-card)
+
+## Techs:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HTML,HCL,SCSS,Shell&theme=radical" alt="luizaandradeti">    
+ 
  ## About
 
 
@@ -19,16 +29,9 @@ Java | IaC | Docker | AWS
 - 😄  Hobbies: Corrida, esportes aquáticos, musculação e jogar tenis;
 
 
-## Techs:
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HTML,HCL,SCSS,Shell&theme=radical" alt="luizaandradeti">     
+ 
 
 
 </p>
 
 
-## Stats 2025
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizaandradeti&theme=radical" alt="GitHub Streak" /></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&hide_border=false&&rank_icon=percentile&hide=contribs,issues&count_private=true&show=prs_merged&theme=radical" alt="luizaandradeti's GitHub Stats"/></p>
