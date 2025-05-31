@@ -5,8 +5,14 @@ Java | IaC | Docker | AWS
 
 ## Stats 2025
 
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizaandradeti&theme=radical" alt="Hoang Son's GitHub Streak" />
+</div>
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/luizaandradeti?cardType=level-alternate&theme=radical&hide=contribs&preferLogin=false">
+
+## Stats 2025
+![Repos I created](https://github-contrib-stats.vercel.app/luizaandradeti/created.svg)
+
 
 ## Techs:
 
