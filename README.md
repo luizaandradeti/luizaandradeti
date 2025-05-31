@@ -6,7 +6,7 @@ Java | IaC | Docker | AWS
 ## Stats 2025
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/luizaandradeti?cardType=level-alternate&theme=radical&hide=contribs&preferLogin=false)](https://git.io/awesome-stats-card)
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/luizaandradeti?cardType=level-alternate&theme=radical&hide=contribs&preferLogin=false">
 
 ## Techs:
 
