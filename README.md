@@ -2,9 +2,6 @@
 
 Java | IaC | Docker | AWS 
 
-
-
-
 ## Stats 2025
 ![Repos I created](https://github-contrib-stats.vercel.app/luizaandradeti/created.svg)
 
@@ -30,11 +27,5 @@ Java | IaC | Docker | AWS
 
 - 💡   Apoio: Inclusão digital como estratégia de combate a desigualdade de oportunidades a nivel territorial.
 - 😄  Hobbies: Corrida, esportes aquáticos, musculação e jogar tenis;
-
-
- 
-
-
-</p>
 
 
