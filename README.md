@@ -3,11 +3,6 @@
 Java | IaC | Docker | AWS 
 
 
-## Stats 2025
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizaandradeti&theme=radical" alt="Hoang Son's GitHub Streak" />
-</div>
 
 
 ## Stats 2025
@@ -16,7 +11,9 @@ Java | IaC | Docker | AWS
 
 ## Techs:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HTML,HCL,SCSS,Shell&theme=radical" alt="luizaandradeti">    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaandradeti&layout=compact&hide=HTML,HCL,SCSS,Shell&theme=radical" alt="luizaandradeti">    
+
+<img src="https://github-readme-stats.vercel.app/api?username=luizaandradeti&show_icons=true&theme=radical&hide=contribs,issues" alt="Hoang Son's GitHub Stats" />
  
  ## About
 
